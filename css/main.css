@@ -52,11 +52,13 @@ nav a:hover{
 }
 
 #main{
-    width:75%;
+    max-width: 800px;
+    /* width:75%; */
     float:left;
 }
 
 #side{
-    width:20;
+    max-width: 400px;
+    /* width:20; */
     float:right;
 }
